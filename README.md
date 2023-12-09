@@ -1,22 +1,3 @@
-
-<style>
-  .tech-icon {
-    text-decoration: none;
-    border: 2px solid #61dafb;
-    padding: 10px;
-    border-radius: 8px;
-    margin: 10px;
-  }
-
-  .contact-badge {
-    display: inline-block;
-    text-decoration: none;
-    margin: 0 15px;
-    font-size: 20px;
-  }
-</style>
-
-
 <h3 align="center">
   Hi there! 👋 Welcome to my Coding Playground! 🚀
 </h3>
@@ -45,13 +26,13 @@
 
 <div align="center">
   <p>
-    <a class="tech-icon" >
+    <a  href="#">
       <img src="https://skillicons.dev/icons?i=js,react,tailwind,css,html,firebase" alt="JavaScript, React, Tailwind CSS, HTML, Firebase" />
     </a>
   </p>
 
   <p>
-    <a class="tech-icon">
+    <a  href="#">
       <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,git,github,vercel" alt="Node.js, MongoDB, Express, Git, GitHub, Vercel" />
     </a>
   </p>
@@ -74,11 +55,11 @@
 ## 📫 How To Reach Me
 
 <div align="center">
-  <a style="display: inline-block; text-decoration: none; margin: 0 15px; font-size: 20px;" href="https://www.linkedin.com/in/fsd-tanvir">
+  <a href="https://www.linkedin.com/in/fsd-tanvir">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
   </a>
   
-  <a style="display: inline-block; text-decoration: none; margin: 0 15px; font-size: 20px;" href="mailto:tanvirfsd1@gmail.com">
+  <a href="mailto:tanvirfsd1@gmail.com">
     <img src="https://img.shields.io/badge/Email-Send%20a%20Message-red?logo=gmail" />
   </a>
 </div>
