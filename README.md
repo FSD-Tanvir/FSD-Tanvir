@@ -1,3 +1,5 @@
+![banner](https://github.com/FSD-Tanvir/FSD-Tanvir/blob/main/github-header-image.png)
+
 <h3 align="center">
   Hi there! 👋 Welcome to my Coding Playground! 🚀
 </h3>
