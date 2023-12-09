@@ -1,3 +1,22 @@
+
+<style>
+  .tech-icon {
+    text-decoration: none;
+    border: 2px solid #61dafb;
+    padding: 10px;
+    border-radius: 8px;
+    margin: 10px;
+  }
+
+  .contact-badge {
+    display: inline-block;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 20px;
+  }
+</style>
+
+
 <h3 align="center">
   Hi there! 👋 Welcome to my Coding Playground! 🚀
 </h3>
@@ -26,15 +45,15 @@
 
 <div align="center">
   <p>
-    <p style="text-decoration: none; border: 2px solid #61dafb; padding: 10px; border-radius: 8px;" >
+    <a class="tech-icon" >
       <img src="https://skillicons.dev/icons?i=js,react,tailwind,css,html,firebase" alt="JavaScript, React, Tailwind CSS, HTML, Firebase" />
-    </p>
+    </a>
   </p>
 
   <p>
-    <p style="text-decoration: none; border: 2px solid #3c873a; padding: 10px; border-radius: 8px;" >
+    <a class="tech-icon">
       <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,git,github,vercel" alt="Node.js, MongoDB, Express, Git, GitHub, Vercel" />
-    </p>
+    </a>
   </p>
 </div>
 
