@@ -2,15 +2,21 @@
   Hi there! 👋 Welcome to my Coding Playground! 🚀
 </h3>
 
-## Introduction
+## 👋 Introduction
 
-<div  align='center'>
-        <p>
-        I'm Tanvir Hasan, a passionate developer diving into the world of code and creating digital wonders. I love to explore new technologies and bring ideas to life through coding.
-        </p>
-</div>
 
-##
+<p >
+   I'm Tanvir Hasan, a passionate developer 🚀 on a journey to explore the vast world of code and craft digital wonders. With a keen eye on innovation and a vision to make a positive impact, my mission is to leverage technology to create solutions that enhance and simplify the way we interact with the digital realm.
+</p>
+
+## 💻 Technology Stack
+
+<p >
+  My technology journey revolves around the MERN stack (MongoDB, Express.js, React, Node.js), and I find joy in building robust and scalable applications. From database management with MongoDB 📊 to server-side scripting with Node.js 🚀, crafting dynamic user interfaces with React ⚛️, and ensuring smooth server operations with Express.js 🛠️ – the MERN stack encapsulates the essence of my development endeavors.
+</p>
+
+
+
 
 ## 🔥 My GitHub Streak Stats
 
@@ -22,7 +28,7 @@
 
 ##
 
-## 🚀 My Working Technologies
+## 🚀 Working Tools and Technologies
 
 <div align="center">
   <p>
@@ -36,6 +42,15 @@
       <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,git,github,vercel" alt="Node.js, MongoDB, Express, Git, GitHub, Vercel" />
     </a>
   </p>
+
+</div>
+
+##
+
+<div align='center'>
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/FSD-Tanvir/langs?time_range=one_year&compact=True&theme=bright_lights)](https://githubtrends.io)
+
 </div>
 
 ##
