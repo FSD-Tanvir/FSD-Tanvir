@@ -4,7 +4,7 @@
 
 ## Introduction
 
-<p align='center>
+<p align='center'>
 
 I'm Tanvir Hasan, a passionate developer diving into the world of code and creating digital wonders. I love to explore new technologies and bring ideas to life through coding.
 
@@ -54,12 +54,12 @@ I'm Tanvir Hasan, a passionate developer diving into the world of code and creat
 
 ## 📫 How To Reach Me
 
-<div align='center'>
-  <a href="https://www.linkedin.com/in/fsd-tanvir" style="text-decoration: none; margin: 0 15px; font-size: 20px;">
+<div align="center">
+  <a style="display: inline-block; text-decoration: none; margin: 0 15px; font-size: 20px;" href="https://www.linkedin.com/in/fsd-tanvir">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
   </a>
   
-  <a href="mailto:tanvirfsd1@gmail.com" style="text-decoration: none; margin: 0 15px; font-size: 20px;">
+  <a style="display: inline-block; text-decoration: none; margin: 0 15px; font-size: 20px;" href="mailto:tanvirfsd1@gmail.com">
     <img src="https://img.shields.io/badge/Email-Send%20a%20Message-red?logo=gmail" />
   </a>
 </div>
@@ -81,4 +81,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
