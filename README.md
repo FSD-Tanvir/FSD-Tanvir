@@ -2,7 +2,7 @@
   Hi there! 👋 Welcome to my Coding Playground! 🚀
 </h3>
 
-## 👋 Introduction
+## 👋 About Me
 
 
 <p >
@@ -22,7 +22,7 @@
 
 <div align='center'>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FSD-Tanvir&theme=blue-navy&border_radius=8)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FSD-Tanvir&theme=prussian)](https://git.io/streak-stats)
 
 </div>
 
