@@ -60,7 +60,6 @@ My goal is to evolve into a Senior Developer by:
 
 ---
 
-## 📊 GitHub Trends
 
 <div align='center'>
 
