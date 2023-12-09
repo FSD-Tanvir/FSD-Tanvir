@@ -4,11 +4,11 @@
 
 ## Introduction
 
-<p align='center'>
-
-I'm Tanvir Hasan, a passionate developer diving into the world of code and creating digital wonders. I love to explore new technologies and bring ideas to life through coding.
-
-</p>
+<div  align='center'>
+        <p>
+        I'm Tanvir Hasan, a passionate developer diving into the world of code and creating digital wonders. I love to explore new technologies and bring ideas to life through coding.
+        </p>
+</div>
 
 ##
 
@@ -26,15 +26,15 @@ I'm Tanvir Hasan, a passionate developer diving into the world of code and creat
 
 <div align="center">
   <p>
-    <a style="text-decoration: none; border: 2px solid #61dafb; padding: 10px; border-radius: 8px;" href="#">
+    <p style="text-decoration: none; border: 2px solid #61dafb; padding: 10px; border-radius: 8px;" >
       <img src="https://skillicons.dev/icons?i=js,react,tailwind,css,html,firebase" alt="JavaScript, React, Tailwind CSS, HTML, Firebase" />
-    </a>
+    </p>
   </p>
 
   <p>
-    <a style="text-decoration: none; border: 2px solid #3c873a; padding: 10px; border-radius: 8px;" href="#">
+    <p style="text-decoration: none; border: 2px solid #3c873a; padding: 10px; border-radius: 8px;" >
       <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,git,github,vercel" alt="Node.js, MongoDB, Express, Git, GitHub, Vercel" />
-    </a>
+    </p>
   </p>
 </div>
 
