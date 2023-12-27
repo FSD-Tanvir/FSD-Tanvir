@@ -6,33 +6,32 @@
 
 ## 👋 About Me
 
-<img align="right" alt="Coding" width="400" hight="" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
-
 <p>
   I'm Tanvir Hasan, a passionate developer on a journey to explore the vast world of code and craft digital wonders. With a keen eye on innovation and a vision to make a positive impact, my mission is to leverage technology to create solutions that enhance and simplify the way we interact with the digital realm.
 </p>
 
-<div>
+<img align="right" alt="Coding" width="260" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
+
 <p>
 🚀 My Journey
-
+  
 - 🌱 Currently exploring the depths of MERN stack development.
 - 🔍 Actively seeking opportunities to contribute to real-world projects.
 - 📚 Constantly learning and staying updated with the latest industry trends.
-  
+
 </p>
 
 <p>
 🌟My goal is to evolve into a Senior Developer by:
-
+  
 - 🤝 Collaborating with experienced developers.
-- 🚀 Contributing to open-source projects.
 - 📈 Gaining expertise in scalable architecture and system design.
 - 💡 Leading and mentoring junior developers.
+  
 </p>
-</div>
 
----
+
+
 
 
 ## 🔥 My GitHub Streak Stats
@@ -42,7 +41,7 @@
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FSD-Tanvir&theme=prussian)](https://git.io/streak-stats)
 </div>
 
----
+
 
 ## 🚀 Working Tools and Technologies
 
@@ -60,7 +59,7 @@
   </p>
 </div>
 
----
+
 
 
 <div align='center'>
@@ -68,7 +67,7 @@
   [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/FSD-Tanvir/langs?time_range=one_year&compact=True&theme=bright_lights)](https://githubtrends.io)
 </div>
 
----
+
 
 ## 🌱 Currently Learning
 
@@ -80,7 +79,7 @@
   </p>
 </div>
 
----
+
 
 ## 📫 How To Reach Me
 
