@@ -19,21 +19,25 @@
 </p>
 
 ---
-
-### 🚀 My Journey
+<div>
+<p>
+🚀 My Journey
 
 - 🌱 Currently exploring the depths of MERN stack development.
 - 🔍 Actively seeking opportunities to contribute to real-world projects.
 - 📚 Constantly learning and staying updated with the latest industry trends.
+  
+</p>
 
-### 🌟 Aspirations
-
-My goal is to evolve into a Senior Developer by:
+<p>
+🌟My goal is to evolve into a Senior Developer by:
 
 - 🤝 Collaborating with experienced developers.
 - 🚀 Contributing to open-source projects.
 - 📈 Gaining expertise in scalable architecture and system design.
 - 💡 Leading and mentoring junior developers.
+</p>
+</div>
 
 ## 🔥 My GitHub Streak Stats
 
