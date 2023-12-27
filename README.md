@@ -34,10 +34,18 @@
 
 
 
-## 🔥 My GitHub Streak Stats
+## 🔥 My GitHub Activity
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=FSD-Tanvir&theme=prussian">
+  <img width="96%"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FSD-Tanvir&theme=prussian">
+  <p align="center">
+    <img width="48%"  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FSD-Tanvir&theme=prussian" >
+    <img width="48%"   src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FSD-Tanvir&theme=prussian" >
+  </p>
+  <p align="center">
+    <img width="48%"   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FSD-Tanvir&theme=prussian">
+    <img width="48%"   src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FSD-Tanvir&theme=prussian&utcOffset=8">
+  </p>
 </div>
 
 
