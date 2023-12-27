@@ -37,8 +37,7 @@
 ## 🔥 My GitHub Streak Stats
 
 <div align="center">
-<img align=""  width="480"      src="https://github-readme-streak-stats.herokuapp.com?user=FSD-Tanvir&theme=prussian">
-<img align=""  width="460" height="190"   src="https://api.githubtrends.io/user/svg/FSD-Tanvir/langs?time_range=one_year&compact=True&theme=bright_lights">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=FSD-Tanvir&theme=prussian">
 </div>
 
 
