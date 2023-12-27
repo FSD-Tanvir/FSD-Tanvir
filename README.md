@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/FSD-Tanvir/FSD-Tanvir/main/Welcome.png)
+![banner](https://raw.githubusercontent.com/FSD-Tanvir/FSD-Tanvir/main/FSD-Tanvir.png)
 
 <h3 align="center">
   Hi there! 👋 Welcome to my Coding Playground! 🚀
