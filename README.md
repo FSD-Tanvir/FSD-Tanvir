@@ -30,10 +30,6 @@
   
 </p>
 
-
-
-
-
 ## 🔥 My GitHub Activity
 
 <div align="center">
@@ -47,7 +43,6 @@
     <img width="48%"   src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FSD-Tanvir&theme=prussian&utcOffset=8">
   </p>
 </div>
-
 
 ## 🚀 Working Tools and Technologies
 
@@ -65,7 +60,6 @@
   </p>
 </div>
 
-
 ## 🌱 Currently Learning
 
 <div align="center">
@@ -75,8 +69,6 @@
     <img src="https://img.shields.io/badge/Material--UI-Styling-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI Styling" />
   </p>
 </div>
-
-
 
 ## 📫 How To Reach Me
 
