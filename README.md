@@ -6,6 +6,8 @@
 
 ## 👋 About Me
 
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
+
 <p>
   I'm Tanvir Hasan, a passionate developer on a journey to explore the vast world of code and craft digital wonders. With a keen eye on innovation and a vision to make a positive impact, my mission is to leverage technology to create solutions that enhance and simplify the way we interact with the digital realm.
 </p>
