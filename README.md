@@ -36,11 +36,10 @@
 
 ## 🔥 My GitHub Streak Stats
 
-<div align='center'>
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FSD-Tanvir&theme=prussian)](https://git.io/streak-stats)
+<div align="center">
+<img align=""  width="480"      src="https://github-readme-streak-stats.herokuapp.com?user=FSD-Tanvir&theme=prussian">
+<img align=""  width="460" height="190"   src="https://api.githubtrends.io/user/svg/FSD-Tanvir/langs?time_range=one_year&compact=True&theme=bright_lights">
 </div>
-
 
 
 ## 🚀 Working Tools and Technologies
@@ -58,15 +57,6 @@
     </a>
   </p>
 </div>
-
-
-
-
-<div align='center'>
-
-  [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/FSD-Tanvir/langs?time_range=one_year&compact=True&theme=bright_lights)](https://githubtrends.io)
-</div>
-
 
 
 ## 🌱 Currently Learning
